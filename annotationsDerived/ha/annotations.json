@@ -1,0 +1,107 @@
+{
+  "annotationsDerived": {
+    "identity": {
+      "version": {
+        "_cldrVersion": "38"
+      },
+      "language": "ha"
+    },
+    "annotations": {
+      "¤": {
+        "tts": [
+          "Kudin da ba a sani ba"
+        ]
+      },
+      "֏": {
+        "tts": [
+          "Kuɗin Armenia"
+        ]
+      },
+      "؋": {
+        "tts": [
+          "Afghani na ƙasar Afghanistan"
+        ]
+      },
+      "৳": {
+        "tts": [
+          "Taka na ƙasar Bangladesh"
+        ]
+      },
+      "฿": {
+        "tts": [
+          "Baht na ƙasar Thailand"
+        ]
+      },
+      "៛": {
+        "tts": [
+          "Riel na ƙasar Cambodia"
+        ]
+      },
+      "₡": {
+        "tts": [
+          "Colón na ƙasar Costa Rica"
+        ]
+      },
+      "₦": {
+        "tts": [
+          "Nairar Najeriya"
+        ]
+      },
+      "₪": {
+        "tts": [
+          "Sabbin Kuɗin Israʼila"
+        ]
+      },
+      "₫": {
+        "tts": [
+          "Kuɗin Vietnam"
+        ]
+      },
+      "₭": {
+        "tts": [
+          "Kuɗin Laos"
+        ]
+      },
+      "₮": {
+        "tts": [
+          "Tugrik na Mongolia"
+        ]
+      },
+      "₲": {
+        "tts": [
+          "Guarani na ƙasar Paraguay"
+        ]
+      },
+      "₴": {
+        "tts": [
+          "Kudin Ukrainian"
+        ]
+      },
+      "₵": {
+        "tts": [
+          "Sidi na Ghana"
+        ]
+      },
+      "₸": {
+        "tts": [
+          "Tenge na ƙasar Kazkhstan"
+        ]
+      },
+      "₺": {
+        "tts": [
+          "Kuɗin Turkiyya"
+        ]
+      },
+      "₼": {
+        "tts": [
+          "Kuɗin Azerbaijani"
+        ]
+      },
+      "₾": {
+        "tts": [
+          "Kuɗin Georgia"
+        ]
+      }
+    }
+  }
+}

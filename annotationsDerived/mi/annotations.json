@@ -1,0 +1,17 @@
+{
+  "annotationsDerived": {
+    "identity": {
+      "version": {
+        "_cldrVersion": "38"
+      },
+      "language": "mi"
+    },
+    "annotations": {
+      "¤": {
+        "tts": [
+          "Moni Tē Mōhiotia"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,3393 @@
+{
+  "annotationsDerived": {
+    "identity": {
+      "version": {
+        "_cldrVersion": "38"
+      },
+      "language": "kab"
+    },
+    "annotations": {
+      "👶🏻": {
+        "default": [
+          "ṣebyan",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "ṣebyan: taglimt taceɛlalt"
+        ]
+      },
+      "👶🏼": {
+        "default": [
+          "ṣebyan",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "ṣebyan: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "👶🏽": {
+        "default": [
+          "ṣebyan",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "ṣebyan: taglimt talemmast"
+        ]
+      },
+      "👶🏾": {
+        "default": [
+          "ṣebyan",
+          "tagwlimt tubrikt talemmast"
+        ],
+        "tts": [
+          "ṣebyan: tagwlimt tubrikt talemmast"
+        ]
+      },
+      "👶🏿": {
+        "default": [
+          "ṣebyan",
+          "tagwlimt tubrikt"
+        ],
+        "tts": [
+          "ṣebyan: tagwlimt tubrikt"
+        ]
+      },
+      "🧒🏻": {
+        "default": [
+          "agrud",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "agrud: taglimt taceɛlalt"
+        ]
+      },
+      "🧒🏼": {
+        "default": [
+          "agrud",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "agrud: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🧒🏽": {
+        "default": [
+          "agrud",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "agrud: taglimt talemmast"
+        ]
+      },
+      "🧒🏾": {
+        "default": [
+          "agrud",
+          "tagwlimt tubrikt talemmast"
+        ],
+        "tts": [
+          "agrud: tagwlimt tubrikt talemmast"
+        ]
+      },
+      "🧒🏿": {
+        "default": [
+          "agrud",
+          "tagwlimt tubrikt"
+        ],
+        "tts": [
+          "agrud: tagwlimt tubrikt"
+        ]
+      },
+      "👦🏻": {
+        "default": [
+          "aqruṛ",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "aqruṛ: taglimt taceɛlalt"
+        ]
+      },
+      "👦🏼": {
+        "default": [
+          "aqruṛ",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "aqruṛ: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "👦🏽": {
+        "default": [
+          "aqruṛ",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "aqruṛ: taglimt talemmast"
+        ]
+      },
+      "👦🏾": {
+        "default": [
+          "aqruṛ",
+          "tagwlimt tubrikt talemmast"
+        ],
+        "tts": [
+          "aqruṛ: tagwlimt tubrikt talemmast"
+        ]
+      },
+      "👦🏿": {
+        "default": [
+          "aqruṛ",
+          "tagwlimt tubrikt"
+        ],
+        "tts": [
+          "aqruṛ: tagwlimt tubrikt"
+        ]
+      },
+      "👧🏻": {
+        "default": [
+          "taglimt taceɛlalt",
+          "Taqruṛt"
+        ],
+        "tts": [
+          "Taqruṛt: taglimt taceɛlalt"
+        ]
+      },
+      "👧🏼": {
+        "default": [
+          "tagwlimt taceɛlalt talemmast",
+          "Taqruṛt"
+        ],
+        "tts": [
+          "Taqruṛt: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "👧🏽": {
+        "default": [
+          "taglimt talemmast",
+          "Taqruṛt"
+        ],
+        "tts": [
+          "Taqruṛt: taglimt talemmast"
+        ]
+      },
+      "👧🏾": {
+        "default": [
+          "tagwlimt tubrikt talemmast",
+          "Taqruṛt"
+        ],
+        "tts": [
+          "Taqruṛt: tagwlimt tubrikt talemmast"
+        ]
+      },
+      "👧🏿": {
+        "default": [
+          "tagwlimt tubrikt",
+          "Taqruṛt"
+        ],
+        "tts": [
+          "Taqruṛt: tagwlimt tubrikt"
+        ]
+      },
+      "🧑🏻": {
+        "default": [
+          "amengaḍ",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "amengaḍ: taglimt taceɛlalt"
+        ]
+      },
+      "🧑🏼": {
+        "default": [
+          "amengaḍ",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "amengaḍ: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🧑🏽": {
+        "default": [
+          "amengaḍ",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "amengaḍ: taglimt talemmast"
+        ]
+      },
+      "🧑🏾": {
+        "default": [
+          "amengaḍ",
+          "tagwlimt tubrikt talemmast"
+        ],
+        "tts": [
+          "amengaḍ: tagwlimt tubrikt talemmast"
+        ]
+      },
+      "🧑🏿": {
+        "default": [
+          "amengaḍ",
+          "tagwlimt tubrikt"
+        ],
+        "tts": [
+          "amengaḍ: tagwlimt tubrikt"
+        ]
+      },
+      "🧑‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "amengaḍ"
+        ],
+        "tts": [
+          "amengaḍ: acekkuḥ azeggaɣ"
+        ]
+      },
+      "🧑🏻‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "amengaḍ",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "amengaḍ: taglimt taceɛlalt, acekkuḥ azeggaɣ"
+        ]
+      },
+      "🧑🏼‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "amengaḍ",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "amengaḍ: tagwlimt taceɛlalt talemmast, acekkuḥ azeggaɣ"
+        ]
+      },
+      "🧑🏽‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "amengaḍ",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "amengaḍ: taglimt talemmast, acekkuḥ azeggaɣ"
+        ]
+      },
+      "🧑🏾‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "amengaḍ",
+          "tagwlimt tubrikt talemmast"
+        ],
+        "tts": [
+          "amengaḍ: tagwlimt tubrikt talemmast, acekkuḥ azeggaɣ"
+        ]
+      },
+      "🧑🏿‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "amengaḍ",
+          "tagwlimt tubrikt"
+        ],
+        "tts": [
+          "amengaḍ: tagwlimt tubrikt, acekkuḥ azeggaɣ"
+        ]
+      },
+      "🧑‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "amengaḍ"
+        ],
+        "tts": [
+          "amengaḍ: acekkuḥ imdewweṛ"
+        ]
+      },
+      "🧑🏻‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "amengaḍ",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "amengaḍ: taglimt taceɛlalt, acekkuḥ imdewweṛ"
+        ]
+      },
+      "🧑🏼‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "amengaḍ",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "amengaḍ: tagwlimt taceɛlalt talemmast, acekkuḥ imdewweṛ"
+        ]
+      },
+      "🧑🏽‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "amengaḍ",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "amengaḍ: taglimt talemmast, acekkuḥ imdewweṛ"
+        ]
+      },
+      "🧑🏾‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "amengaḍ",
+          "tagwlimt tubrikt talemmast"
+        ],
+        "tts": [
+          "amengaḍ: tagwlimt tubrikt talemmast, acekkuḥ imdewweṛ"
+        ]
+      },
+      "🧑🏿‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "amengaḍ",
+          "tagwlimt tubrikt"
+        ],
+        "tts": [
+          "amengaḍ: tagwlimt tubrikt, acekkuḥ imdewweṛ"
+        ]
+      },
+      "🧑‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "amengaḍ"
+        ],
+        "tts": [
+          "amengaḍ: acekkuḥ amellal"
+        ]
+      },
+      "🧑🏻‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "amengaḍ",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "amengaḍ: taglimt taceɛlalt, acekkuḥ amellal"
+        ]
+      },
+      "🧑🏼‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "amengaḍ",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "amengaḍ: tagwlimt taceɛlalt talemmast, acekkuḥ amellal"
+        ]
+      },
+      "🧑🏽‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "amengaḍ",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "amengaḍ: taglimt talemmast, acekkuḥ amellal"
+        ]
+      },
+      "🧑🏾‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "amengaḍ",
+          "tagwlimt tubrikt talemmast"
+        ],
+        "tts": [
+          "amengaḍ: tagwlimt tubrikt talemmast, acekkuḥ amellal"
+        ]
+      },
+      "🧑🏿‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "amengaḍ",
+          "tagwlimt tubrikt"
+        ],
+        "tts": [
+          "amengaḍ: tagwlimt tubrikt, acekkuḥ amellal"
+        ]
+      },
+      "🧑‍🦲": {
+        "default": [
+          "aferḍas",
+          "amengaḍ"
+        ],
+        "tts": [
+          "amengaḍ: aferḍas"
+        ]
+      },
+      "🧑🏻‍🦲": {
+        "default": [
+          "aferḍas",
+          "amengaḍ",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "amengaḍ: taglimt taceɛlalt, aferḍas"
+        ]
+      },
+      "🧑🏼‍🦲": {
+        "default": [
+          "aferḍas",
+          "amengaḍ",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "amengaḍ: tagwlimt taceɛlalt talemmast, aferḍas"
+        ]
+      },
+      "🧑🏽‍🦲": {
+        "default": [
+          "aferḍas",
+          "amengaḍ",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "amengaḍ: taglimt talemmast, aferḍas"
+        ]
+      },
+      "🧑🏾‍🦲": {
+        "default": [
+          "aferḍas",
+          "amengaḍ",
+          "tagwlimt tubrikt talemmast"
+        ],
+        "tts": [
+          "amengaḍ: tagwlimt tubrikt talemmast, aferḍas"
+        ]
+      },
+      "🧑🏿‍🦲": {
+        "default": [
+          "aferḍas",
+          "amengaḍ",
+          "tagwlimt tubrikt"
+        ],
+        "tts": [
+          "amengaḍ: tagwlimt tubrikt, aferḍas"
+        ]
+      },
+      "👨🏻": {
+        "default": [
+          "argaz",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz: taglimt taceɛlalt"
+        ]
+      },
+      "👨🏼": {
+        "default": [
+          "argaz",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "👨🏽": {
+        "default": [
+          "argaz",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz: taglimt talemmast"
+        ]
+      },
+      "👨🏾": {
+        "default": [
+          "argaz",
+          "tagwlimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz: tagwlimt tubrikt talemmast"
+        ]
+      },
+      "👨🏿": {
+        "default": [
+          "argaz",
+          "tagwlimt tubrikt"
+        ],
+        "tts": [
+          "argaz: tagwlimt tubrikt"
+        ]
+      },
+      "👨‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "argaz"
+        ],
+        "tts": [
+          "argaz: acekkuḥ azeggaɣ"
+        ]
+      },
+      "👨🏻‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "argaz",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz: taglimt taceɛlalt, acekkuḥ azeggaɣ"
+        ]
+      },
+      "👨🏼‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "argaz",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz: tagwlimt taceɛlalt talemmast, acekkuḥ azeggaɣ"
+        ]
+      },
+      "👨🏽‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "argaz",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz: taglimt talemmast, acekkuḥ azeggaɣ"
+        ]
+      },
+      "👨🏾‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "argaz",
+          "tagwlimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz: tagwlimt tubrikt talemmast, acekkuḥ azeggaɣ"
+        ]
+      },
+      "👨🏿‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "argaz",
+          "tagwlimt tubrikt"
+        ],
+        "tts": [
+          "argaz: tagwlimt tubrikt, acekkuḥ azeggaɣ"
+        ]
+      },
+      "👨‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "argaz"
+        ],
+        "tts": [
+          "argaz: acekkuḥ imdewweṛ"
+        ]
+      },
+      "👨🏻‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "argaz",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz: taglimt taceɛlalt, acekkuḥ imdewweṛ"
+        ]
+      },
+      "👨🏼‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "argaz",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz: tagwlimt taceɛlalt talemmast, acekkuḥ imdewweṛ"
+        ]
+      },
+      "👨🏽‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "argaz",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz: taglimt talemmast, acekkuḥ imdewweṛ"
+        ]
+      },
+      "👨🏾‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "argaz",
+          "tagwlimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz: tagwlimt tubrikt talemmast, acekkuḥ imdewweṛ"
+        ]
+      },
+      "👨🏿‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "argaz",
+          "tagwlimt tubrikt"
+        ],
+        "tts": [
+          "argaz: tagwlimt tubrikt, acekkuḥ imdewweṛ"
+        ]
+      },
+      "👨‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "argaz"
+        ],
+        "tts": [
+          "argaz: acekkuḥ amellal"
+        ]
+      },
+      "👨🏻‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "argaz",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz: taglimt taceɛlalt, acekkuḥ amellal"
+        ]
+      },
+      "👨🏼‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "argaz",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz: tagwlimt taceɛlalt talemmast, acekkuḥ amellal"
+        ]
+      },
+      "👨🏽‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "argaz",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz: taglimt talemmast, acekkuḥ amellal"
+        ]
+      },
+      "👨🏾‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "argaz",
+          "tagwlimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz: tagwlimt tubrikt talemmast, acekkuḥ amellal"
+        ]
+      },
+      "👨🏿‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "argaz",
+          "tagwlimt tubrikt"
+        ],
+        "tts": [
+          "argaz: tagwlimt tubrikt, acekkuḥ amellal"
+        ]
+      },
+      "👨‍🦲": {
+        "default": [
+          "aferḍas",
+          "argaz"
+        ],
+        "tts": [
+          "argaz: aferḍas"
+        ]
+      },
+      "👨🏻‍🦲": {
+        "default": [
+          "aferḍas",
+          "argaz",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz: taglimt taceɛlalt, aferḍas"
+        ]
+      },
+      "👨🏼‍🦲": {
+        "default": [
+          "aferḍas",
+          "argaz",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz: tagwlimt taceɛlalt talemmast, aferḍas"
+        ]
+      },
+      "👨🏽‍🦲": {
+        "default": [
+          "aferḍas",
+          "argaz",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz: taglimt talemmast, aferḍas"
+        ]
+      },
+      "👨🏾‍🦲": {
+        "default": [
+          "aferḍas",
+          "argaz",
+          "tagwlimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz: tagwlimt tubrikt talemmast, aferḍas"
+        ]
+      },
+      "👨🏿‍🦲": {
+        "default": [
+          "aferḍas",
+          "argaz",
+          "tagwlimt tubrikt"
+        ],
+        "tts": [
+          "argaz: tagwlimt tubrikt, aferḍas"
+        ]
+      },
+      "👩🏻": {
+        "default": [
+          "taglimt taceɛlalt",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt taceɛlalt"
+        ]
+      },
+      "👩🏼": {
+        "default": [
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "👩🏽": {
+        "default": [
+          "taglimt talemmast",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt talemmast"
+        ]
+      },
+      "👩🏾": {
+        "default": [
+          "tagwlimt tubrikt talemmast",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt tubrikt talemmast"
+        ]
+      },
+      "👩🏿": {
+        "default": [
+          "tagwlimt tubrikt",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt tubrikt"
+        ]
+      },
+      "👩‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: acekkuḥ azeggaɣ"
+        ]
+      },
+      "👩🏻‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "taglimt taceɛlalt",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt taceɛlalt, acekkuḥ azeggaɣ"
+        ]
+      },
+      "👩🏼‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt taceɛlalt talemmast, acekkuḥ azeggaɣ"
+        ]
+      },
+      "👩🏽‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "taglimt talemmast",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt talemmast, acekkuḥ azeggaɣ"
+        ]
+      },
+      "👩🏾‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "tagwlimt tubrikt talemmast",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt tubrikt talemmast, acekkuḥ azeggaɣ"
+        ]
+      },
+      "👩🏿‍🦰": {
+        "default": [
+          "acekkuḥ azeggaɣ",
+          "tagwlimt tubrikt",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt tubrikt, acekkuḥ azeggaɣ"
+        ]
+      },
+      "👩‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: acekkuḥ imdewweṛ"
+        ]
+      },
+      "👩🏻‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "taglimt taceɛlalt",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt taceɛlalt, acekkuḥ imdewweṛ"
+        ]
+      },
+      "👩🏼‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt taceɛlalt talemmast, acekkuḥ imdewweṛ"
+        ]
+      },
+      "👩🏽‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "taglimt talemmast",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt talemmast, acekkuḥ imdewweṛ"
+        ]
+      },
+      "👩🏾‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "tagwlimt tubrikt talemmast",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt tubrikt talemmast, acekkuḥ imdewweṛ"
+        ]
+      },
+      "👩🏿‍🦱": {
+        "default": [
+          "acekkuḥ imdewweṛ",
+          "tagwlimt tubrikt",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt tubrikt, acekkuḥ imdewweṛ"
+        ]
+      },
+      "👩‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: acekkuḥ amellal"
+        ]
+      },
+      "👩🏻‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "taglimt taceɛlalt",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt taceɛlalt, acekkuḥ amellal"
+        ]
+      },
+      "👩🏼‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt taceɛlalt talemmast, acekkuḥ amellal"
+        ]
+      },
+      "👩🏽‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "taglimt talemmast",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt talemmast, acekkuḥ amellal"
+        ]
+      },
+      "👩🏾‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "tagwlimt tubrikt talemmast",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt tubrikt talemmast, acekkuḥ amellal"
+        ]
+      },
+      "👩🏿‍🦳": {
+        "default": [
+          "acekkuḥ amellal",
+          "tagwlimt tubrikt",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt tubrikt, acekkuḥ amellal"
+        ]
+      },
+      "👩‍🦲": {
+        "default": [
+          "aferḍas",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: aferḍas"
+        ]
+      },
+      "👩🏻‍🦲": {
+        "default": [
+          "aferḍas",
+          "taglimt taceɛlalt",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt taceɛlalt, aferḍas"
+        ]
+      },
+      "👩🏼‍🦲": {
+        "default": [
+          "aferḍas",
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt taceɛlalt talemmast, aferḍas"
+        ]
+      },
+      "👩🏽‍🦲": {
+        "default": [
+          "aferḍas",
+          "taglimt talemmast",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt talemmast, aferḍas"
+        ]
+      },
+      "👩🏾‍🦲": {
+        "default": [
+          "aferḍas",
+          "tagwlimt tubrikt talemmast",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt tubrikt talemmast, aferḍas"
+        ]
+      },
+      "👩🏿‍🦲": {
+        "default": [
+          "aferḍas",
+          "tagwlimt tubrikt",
+          "tameṭṭut"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt tubrikt, aferḍas"
+        ]
+      },
+      "🧓🏻": {
+        "default": [
+          "amengaḍ meqqren",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "amengaḍ meqqren: taglimt taceɛlalt"
+        ]
+      },
+      "🧓🏼": {
+        "default": [
+          "amengaḍ meqqren",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "amengaḍ meqqren: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🧓🏽": {
+        "default": [
+          "amengaḍ meqqren",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "amengaḍ meqqren: taglimt talemmast"
+        ]
+      },
+      "🧓🏾": {
+        "default": [
+          "amengaḍ meqqren",
+          "tagwlimt tubrikt talemmast"
+        ],
+        "tts": [
+          "amengaḍ meqqren: tagwlimt tubrikt talemmast"
+        ]
+      },
+      "🧓🏿": {
+        "default": [
+          "amengaḍ meqqren",
+          "tagwlimt tubrikt"
+        ],
+        "tts": [
+          "amengaḍ meqqren: tagwlimt tubrikt"
+        ]
+      },
+      "👴🏻": {
+        "default": [
+          "amɣaṛ",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "amɣaṛ: taglimt taceɛlalt"
+        ]
+      },
+      "👴🏼": {
+        "default": [
+          "amɣaṛ",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "amɣaṛ: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "👴🏽": {
+        "default": [
+          "amɣaṛ",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "amɣaṛ: taglimt talemmast"
+        ]
+      },
+      "👴🏾": {
+        "default": [
+          "amɣaṛ",
+          "tagwlimt tubrikt talemmast"
+        ],
+        "tts": [
+          "amɣaṛ: tagwlimt tubrikt talemmast"
+        ]
+      },
+      "👴🏿": {
+        "default": [
+          "amɣaṛ",
+          "tagwlimt tubrikt"
+        ],
+        "tts": [
+          "amɣaṛ: tagwlimt tubrikt"
+        ]
+      },
+      "#⃣": {
+        "default": [
+          "keycap"
+        ],
+        "tts": [
+          "keycap: #"
+        ]
+      },
+      "*⃣": {
+        "default": [
+          "keycap"
+        ],
+        "tts": [
+          "keycap: *"
+        ]
+      },
+      "🔟": {
+        "default": [
+          "keycap"
+        ],
+        "tts": [
+          "keycap: 10"
+        ]
+      },
+      "🇦🇨": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirt n Aṣunsyun"
+        ]
+      },
+      "🇦🇩": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Undura"
+        ]
+      },
+      "🇦🇪": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigeldunin Yedduklen Taɛrabin"
+        ]
+      },
+      "🇦🇫": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Afɣanistan"
+        ]
+      },
+      "🇦🇬": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Untiga d Barbuda"
+        ]
+      },
+      "🇦🇮": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ungiya"
+        ]
+      },
+      "🇦🇱": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Lalbani"
+        ]
+      },
+      "🇦🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Arminya"
+        ]
+      },
+      "🇦🇴": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ungula"
+        ]
+      },
+      "🇦🇶": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Anṭarktik"
+        ]
+      },
+      "🇦🇷": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Arjuntin"
+        ]
+      },
+      "🇦🇸": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Samwa Tamarikanit"
+        ]
+      },
+      "🇦🇹": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ustriya"
+        ]
+      },
+      "🇦🇺": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ustrali"
+        ]
+      },
+      "🇦🇼": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Aruba"
+        ]
+      },
+      "🇦🇽": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin n Aland"
+        ]
+      },
+      "🇦🇿": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Azrabijan"
+        ]
+      },
+      "🇧🇦": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Busna d Hersek"
+        ]
+      },
+      "🇧🇧": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Barbadus"
+        ]
+      },
+      "🇧🇩": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Bangladac"
+        ]
+      },
+      "🇧🇪": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Belǧik"
+        ]
+      },
+      "🇧🇫": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Burkina Fasu"
+        ]
+      },
+      "🇧🇬": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Bulgari"
+        ]
+      },
+      "🇧🇭": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Baḥrin"
+        ]
+      },
+      "🇧🇮": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Burandi"
+        ]
+      },
+      "🇧🇯": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Binin"
+        ]
+      },
+      "🇧🇱": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Sant Baṛtilimi"
+        ]
+      },
+      "🇧🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Bermuda"
+        ]
+      },
+      "🇧🇳": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Bruney"
+        ]
+      },
+      "🇧🇴": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Bulivi"
+        ]
+      },
+      "🇧🇶": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Huland n Kaṛayib"
+        ]
+      },
+      "🇧🇷": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Brizil"
+        ]
+      },
+      "🇧🇸": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Bahamas"
+        ]
+      },
+      "🇧🇹": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Bhutan"
+        ]
+      },
+      "🇧🇻": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin n Buvet"
+        ]
+      },
+      "🇧🇼": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Bustwana"
+        ]
+      },
+      "🇧🇾": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Bilarus"
+        ]
+      },
+      "🇧🇿": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Biliz"
+        ]
+      },
+      "🇨🇦": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kanada"
+        ]
+      },
+      "🇨🇨": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin n Kukus"
+        ]
+      },
+      "🇨🇩": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigduda Tagdudant n Kungu"
+        ]
+      },
+      "🇨🇫": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigduda n Tefriqt Talemmast"
+        ]
+      },
+      "🇨🇬": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kungu"
+        ]
+      },
+      "🇨🇭": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Swis"
+        ]
+      },
+      "🇨🇮": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kuṭ Divwar"
+        ]
+      },
+      "🇨🇰": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin n Kuk"
+        ]
+      },
+      "🇨🇱": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Cili"
+        ]
+      },
+      "🇨🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kamirun"
+        ]
+      },
+      "🇨🇳": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Lacin"
+        ]
+      },
+      "🇨🇴": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kulumbi"
+        ]
+      },
+      "🇨🇵": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirt n Klipirṭun"
+        ]
+      },
+      "🇨🇷": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kusta Rika"
+        ]
+      },
+      "🇨🇺": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kuba"
+        ]
+      },
+      "🇨🇻": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin n yixef azegzaw"
+        ]
+      },
+      "🇨🇼": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kurasaw"
+        ]
+      },
+      "🇨🇽": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzrin n Kristmaṣ"
+        ]
+      },
+      "🇨🇾": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Cipr"
+        ]
+      },
+      "🇨🇿": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Čček"
+        ]
+      },
+      "🇩🇪": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Lalman"
+        ]
+      },
+      "🇩🇬": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Dyigu Garsiya"
+        ]
+      },
+      "🇩🇯": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ǧibuti"
+        ]
+      },
+      "🇩🇰": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Denmark"
+        ]
+      },
+      "🇩🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Duminik"
+        ]
+      },
+      "🇩🇴": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigduda Taduminikit"
+        ]
+      },
+      "🇩🇿": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Lezzayer"
+        ]
+      },
+      "🇪🇦": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Sebta d Melilla"
+        ]
+      },
+      "🇪🇨": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ikwaṭur"
+        ]
+      },
+      "🇪🇪": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Istunya"
+        ]
+      },
+      "🇪🇬": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Maṣr"
+        ]
+      },
+      "🇪🇭": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Seḥra n umalu"
+        ]
+      },
+      "🇪🇷": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Iritiria"
+        ]
+      },
+      "🇪🇸": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Spanya"
+        ]
+      },
+      "🇪🇹": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Utyupi"
+        ]
+      },
+      "🇪🇺": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tiddukla n Turuft"
+        ]
+      },
+      "🇫🇮": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Finlund"
+        ]
+      },
+      "🇫🇯": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Fiji"
+        ]
+      },
+      "🇫🇰": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin n Falkland"
+        ]
+      },
+      "🇫🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Mikrunizya"
+        ]
+      },
+      "🇫🇴": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin n Faṛwi"
+        ]
+      },
+      "🇫🇷": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Fransa"
+        ]
+      },
+      "🇬🇦": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Gabun"
+        ]
+      },
+      "🇬🇧": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tagelda Yedduklen"
+        ]
+      },
+      "🇬🇩": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Grunad"
+        ]
+      },
+      "🇬🇪": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Jiyurji"
+        ]
+      },
+      "🇬🇫": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ɣana tafransist"
+        ]
+      },
+      "🇬🇬": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Girnizi"
+        ]
+      },
+      "🇬🇭": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ɣana"
+        ]
+      },
+      "🇬🇮": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Jibraltar"
+        ]
+      },
+      "🇬🇱": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Grunland"
+        ]
+      },
+      "🇬🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Gambya"
+        ]
+      },
+      "🇬🇳": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ɣinya"
+        ]
+      },
+      "🇬🇵": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Gwadalupi"
+        ]
+      },
+      "🇬🇶": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ɣinya Tasebgast"
+        ]
+      },
+      "🇬🇷": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Lagris"
+        ]
+      },
+      "🇬🇸": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin n Jyuṛjya n Unẓul akked Sandwič n Unẓul"
+        ]
+      },
+      "🇬🇹": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Gwatimala"
+        ]
+      },
+      "🇬🇺": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Gwam"
+        ]
+      },
+      "🇬🇼": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ɣinya-Bisaw"
+        ]
+      },
+      "🇬🇾": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Guwana"
+        ]
+      },
+      "🇭🇰": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tamnaṭ Taqbuṛt Tacinwat n Hung Kung"
+        ]
+      },
+      "🇭🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin n Hird d Makdunalt"
+        ]
+      },
+      "🇭🇳": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Hunduras"
+        ]
+      },
+      "🇭🇷": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kerwasya"
+        ]
+      },
+      "🇭🇹": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Hayti"
+        ]
+      },
+      "🇭🇺": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Hungri"
+        ]
+      },
+      "🇮🇨": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin Tikanaṛiyin"
+        ]
+      },
+      "🇮🇩": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Indunizi"
+        ]
+      },
+      "🇮🇪": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Lirlund"
+        ]
+      },
+      "🇮🇱": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Izrayil"
+        ]
+      },
+      "🇮🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirt n Man"
+        ]
+      },
+      "🇮🇳": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Lhend"
+        ]
+      },
+      "🇮🇴": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Akal Aglizi deg Ugaraw Ahendi"
+        ]
+      },
+      "🇮🇶": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Lɛiraq"
+        ]
+      },
+      "🇮🇷": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Iran"
+        ]
+      },
+      "🇮🇸": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Island"
+        ]
+      },
+      "🇮🇹": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ṭelyan"
+        ]
+      },
+      "🇯🇪": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Jirzi"
+        ]
+      },
+      "🇯🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Jamyika"
+        ]
+      },
+      "🇯🇴": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Lajurdani"
+        ]
+      },
+      "🇯🇵": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Jappu"
+        ]
+      },
+      "🇰🇪": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kinya"
+        ]
+      },
+      "🇰🇬": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kirigistan"
+        ]
+      },
+      "🇰🇭": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Cambudya"
+        ]
+      },
+      "🇰🇮": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kiribati"
+        ]
+      },
+      "🇰🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kumur"
+        ]
+      },
+      "🇰🇳": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: San Kits d Nivis"
+        ]
+      },
+      "🇰🇵": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kurya, Ufella"
+        ]
+      },
+      "🇰🇷": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kurya, Wadda"
+        ]
+      },
+      "🇰🇼": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kuwayt"
+        ]
+      },
+      "🇰🇾": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin n Kamyan"
+        ]
+      },
+      "🇰🇿": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kazaxistan"
+        ]
+      },
+      "🇱🇦": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Laws"
+        ]
+      },
+      "🇱🇧": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Lubnan"
+        ]
+      },
+      "🇱🇨": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: San Lučya"
+        ]
+      },
+      "🇱🇮": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Layctenstan"
+        ]
+      },
+      "🇱🇰": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Sri Lanka"
+        ]
+      },
+      "🇱🇷": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Libirya"
+        ]
+      },
+      "🇱🇸": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Lizuṭu"
+        ]
+      },
+      "🇱🇹": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Liṭwanya"
+        ]
+      },
+      "🇱🇺": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Luksamburg"
+        ]
+      },
+      "🇱🇻": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Latvia"
+        ]
+      },
+      "🇱🇾": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Libya"
+        ]
+      },
+      "🇲🇦": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Lmerruk"
+        ]
+      },
+      "🇲🇨": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Munaku"
+        ]
+      },
+      "🇲🇩": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Muldabi"
+        ]
+      },
+      "🇲🇪": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Muntinigru"
+        ]
+      },
+      "🇲🇫": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: San Maṛtan"
+        ]
+      },
+      "🇲🇬": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Madaɣecqer"
+        ]
+      },
+      "🇲🇭": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin n Marcal"
+        ]
+      },
+      "🇲🇰": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Masidunya n ugafa"
+        ]
+      },
+      "🇲🇱": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Mali"
+        ]
+      },
+      "🇲🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Myanmar"
+        ]
+      },
+      "🇲🇳": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Mungulya"
+        ]
+      },
+      "🇲🇴": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tamnaḍt tudbilt tuzzigt tacinwat n Makaw"
+        ]
+      },
+      "🇲🇵": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin n Maryan Ufella"
+        ]
+      },
+      "🇲🇶": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Martinik"
+        ]
+      },
+      "🇲🇷": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Muriṭanya"
+        ]
+      },
+      "🇲🇸": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Munsirat"
+        ]
+      },
+      "🇲🇹": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Malṭ"
+        ]
+      },
+      "🇲🇺": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Muris"
+        ]
+      },
+      "🇲🇻": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Maldib"
+        ]
+      },
+      "🇲🇼": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Malawi"
+        ]
+      },
+      "🇲🇽": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Meksik"
+        ]
+      },
+      "🇲🇾": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Malizya"
+        ]
+      },
+      "🇲🇿": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Muzembiq"
+        ]
+      },
+      "🇳🇦": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Namibya"
+        ]
+      },
+      "🇳🇨": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kalidunya Tamaynut"
+        ]
+      },
+      "🇳🇪": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Nijer"
+        ]
+      },
+      "🇳🇫": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin Tinawfukin"
+        ]
+      },
+      "🇳🇬": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Nijirya"
+        ]
+      },
+      "🇳🇮": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Nikaragwa"
+        ]
+      },
+      "🇳🇱": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Timura-Yessakesren"
+        ]
+      },
+      "🇳🇴": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Nurvij"
+        ]
+      },
+      "🇳🇵": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Nipal"
+        ]
+      },
+      "🇳🇷": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Nuru"
+        ]
+      },
+      "🇳🇺": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Niwi"
+        ]
+      },
+      "🇳🇿": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ziland Tamaynut"
+        ]
+      },
+      "🇴🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ɛuman"
+        ]
+      },
+      "🇵🇦": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Panam"
+        ]
+      },
+      "🇵🇪": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Piru"
+        ]
+      },
+      "🇵🇫": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Pulunizi tafransist"
+        ]
+      },
+      "🇵🇬": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ɣinya Tamaynut Tapaput"
+        ]
+      },
+      "🇵🇭": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Filipin"
+        ]
+      },
+      "🇵🇰": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Pakistan"
+        ]
+      },
+      "🇵🇱": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Pulund"
+        ]
+      },
+      "🇵🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: San Pyar d Miklun"
+        ]
+      },
+      "🇵🇳": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Pitkarin"
+        ]
+      },
+      "🇵🇷": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Purtu Riku"
+        ]
+      },
+      "🇵🇸": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Falisṭin d Ɣezza"
+        ]
+      },
+      "🇵🇹": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Purtugal"
+        ]
+      },
+      "🇵🇼": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Palu"
+        ]
+      },
+      "🇵🇾": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Paragway"
+        ]
+      },
+      "🇶🇦": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Qaṭar"
+        ]
+      },
+      "🇷🇪": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Timlilit"
+        ]
+      },
+      "🇷🇴": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Rumani"
+        ]
+      },
+      "🇷🇸": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ṣirbya"
+        ]
+      },
+      "🇷🇺": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Rrus"
+        ]
+      },
+      "🇷🇼": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ruwanda"
+        ]
+      },
+      "🇸🇦": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Suɛudiya Taɛrabt"
+        ]
+      },
+      "🇸🇧": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin n Sulumun"
+        ]
+      },
+      "🇸🇨": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Seycel"
+        ]
+      },
+      "🇸🇩": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Sudan"
+        ]
+      },
+      "🇸🇪": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Swid"
+        ]
+      },
+      "🇸🇬": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Singafur"
+        ]
+      },
+      "🇸🇭": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Sant Ilina"
+        ]
+      },
+      "🇸🇮": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Sluvinya"
+        ]
+      },
+      "🇸🇯": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Svalvard d Jan Mayen"
+        ]
+      },
+      "🇸🇰": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Sluvakya"
+        ]
+      },
+      "🇸🇱": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Sira Lyun"
+        ]
+      },
+      "🇸🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: San Marinu"
+        ]
+      },
+      "🇸🇳": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Sinigal"
+        ]
+      },
+      "🇸🇴": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ṣumal"
+        ]
+      },
+      "🇸🇷": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Surinam"
+        ]
+      },
+      "🇸🇸": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Sudan n unẓul"
+        ]
+      },
+      "🇸🇹": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Saw Tumi d Pransip"
+        ]
+      },
+      "🇸🇻": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Salvadur"
+        ]
+      },
+      "🇸🇽": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: San Maṛtan(Tamnaḍt tahulandit)"
+        ]
+      },
+      "🇸🇾": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Surya"
+        ]
+      },
+      "🇸🇿": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Swazilund"
+        ]
+      },
+      "🇹🇦": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tristan da Kunha"
+        ]
+      },
+      "🇹🇨": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ṭurk d Tegzirin n Kaykus"
+        ]
+      },
+      "🇹🇩": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Čad"
+        ]
+      },
+      "🇹🇫": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Timura tifransisin n unẓul"
+        ]
+      },
+      "🇹🇬": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ṭugu"
+        ]
+      },
+      "🇹🇭": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ṭayland"
+        ]
+      },
+      "🇹🇯": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tajikistan"
+        ]
+      },
+      "🇹🇰": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ṭuklu"
+        ]
+      },
+      "🇹🇱": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tumur Asamar"
+        ]
+      },
+      "🇹🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ṭurkmanistan"
+        ]
+      },
+      "🇹🇳": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tunes"
+        ]
+      },
+      "🇹🇴": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ṭunga"
+        ]
+      },
+      "🇹🇷": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ṭurk"
+        ]
+      },
+      "🇹🇹": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ṭrindad d Ṭubagu"
+        ]
+      },
+      "🇹🇻": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ṭuvalu"
+        ]
+      },
+      "🇹🇼": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ṭaywan"
+        ]
+      },
+      "🇹🇿": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ṭanzanya"
+        ]
+      },
+      "🇺🇦": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Ukran"
+        ]
+      },
+      "🇺🇬": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Uɣanda"
+        ]
+      },
+      "🇺🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin ibeɛden n Marikan"
+        ]
+      },
+      "🇺🇳": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Timura Idduklen"
+        ]
+      },
+      "🇺🇸": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: WDM"
+        ]
+      },
+      "🇺🇾": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Urugway"
+        ]
+      },
+      "🇺🇿": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Uzbaxistan"
+        ]
+      },
+      "🇻🇦": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Awanek n Vatikan"
+        ]
+      },
+      "🇻🇨": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: San Vansu d Grunadin"
+        ]
+      },
+      "🇻🇪": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Venzwila"
+        ]
+      },
+      "🇻🇬": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tigzirin Tiverjiniyin Tigliziyin"
+        ]
+      },
+      "🇻🇮": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: W.D. Tigzirin n Virginya"
+        ]
+      },
+      "🇻🇳": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Vyeṭnam"
+        ]
+      },
+      "🇻🇺": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Vanwatu"
+        ]
+      },
+      "🇼🇫": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Wallis d Futuna"
+        ]
+      },
+      "🇼🇸": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Samwa"
+        ]
+      },
+      "🇽🇰": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Kuṣuvu"
+        ]
+      },
+      "🇾🇪": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Lyamen"
+        ]
+      },
+      "🇾🇹": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Mayuṭ"
+        ]
+      },
+      "🇿🇦": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Tafriqt Wadda"
+        ]
+      },
+      "🇿🇲": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Zambya"
+        ]
+      },
+      "🇿🇼": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Zimbabwi"
+        ]
+      },
+      "¤": {
+        "tts": [
+          "Tadrimt tarussint neɣ tarameɣtut"
+        ]
+      },
+      "֏": {
+        "tts": [
+          "Adram Armini"
+        ]
+      },
+      "؋": {
+        "tts": [
+          "Afɣani Afɣan"
+        ]
+      },
+      "৳": {
+        "tts": [
+          "Ataka n Bangladec"
+        ]
+      },
+      "฿": {
+        "tts": [
+          "Abaht n Tayland"
+        ]
+      },
+      "៛": {
+        "tts": [
+          "Ariyil n Kambuj"
+        ]
+      },
+      "₡": {
+        "tts": [
+          "Akulun n Kusta Rika"
+        ]
+      },
+      "₦": {
+        "tts": [
+          "Anayra Anijiri"
+        ]
+      },
+      "₧": {
+        "tts": [
+          "Apisetas n Spanya"
+        ]
+      },
+      "₪": {
+        "tts": [
+          "Acikil amaynut n Izrayil"
+        ]
+      },
+      "₫": {
+        "tts": [
+          "Adung n Vyitnam"
+        ]
+      },
+      "₭": {
+        "tts": [
+          "Akip n Laws"
+        ]
+      },
+      "₮": {
+        "tts": [
+          "Atugrik n Mungulya"
+        ]
+      },
+      "₲": {
+        "tts": [
+          "Agarani n Paragway"
+        ]
+      },
+      "₴": {
+        "tts": [
+          "Ahrivnya n Ukran"
+        ]
+      },
+      "₵": {
+        "tts": [
+          "Asidi n Ɣana"
+        ]
+      },
+      "₸": {
+        "tts": [
+          "Atunj n Kazaxistan"
+        ]
+      },
+      "₺": {
+        "tts": [
+          "Apund n Ṭurk"
+        ]
+      },
+      "₼": {
+        "tts": [
+          "Amanat Aziri"
+        ]
+      },
+      "₾": {
+        "tts": [
+          "Alari n Jyurjya"
+        ]
+      },
+      "0⃣": {
+        "default": [
+          "keycap"
+        ],
+        "tts": [
+          "keycap: 0"
+        ]
+      },
+      "1⃣": {
+        "default": [
+          "keycap"
+        ],
+        "tts": [
+          "keycap: 1"
+        ]
+      },
+      "2⃣": {
+        "default": [
+          "keycap"
+        ],
+        "tts": [
+          "keycap: 2"
+        ]
+      },
+      "3⃣": {
+        "default": [
+          "keycap"
+        ],
+        "tts": [
+          "keycap: 3"
+        ]
+      },
+      "4⃣": {
+        "default": [
+          "keycap"
+        ],
+        "tts": [
+          "keycap: 4"
+        ]
+      },
+      "5⃣": {
+        "default": [
+          "keycap"
+        ],
+        "tts": [
+          "keycap: 5"
+        ]
+      },
+      "6⃣": {
+        "default": [
+          "keycap"
+        ],
+        "tts": [
+          "keycap: 6"
+        ]
+      },
+      "7⃣": {
+        "default": [
+          "keycap"
+        ],
+        "tts": [
+          "keycap: 7"
+        ]
+      },
+      "8⃣": {
+        "default": [
+          "keycap"
+        ],
+        "tts": [
+          "keycap: 8"
+        ]
+      },
+      "9⃣": {
+        "default": [
+          "keycap"
+        ],
+        "tts": [
+          "keycap: 9"
+        ]
+      }
+    }
+  }
+}
